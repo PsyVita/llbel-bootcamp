@@ -1,6 +1,11 @@
-inputYear = input("Enter a year: ")
+inputYear = int(input("Enter a year: "))
+convertedYear = inputYear - 543
 
-if int(inputYear) % 4 == 3:
-    print(inputYear + " is a leap year.")
+if convertedYear % 400 == 0:
+    print(str(inputYear) + " is a leap year.")
+elif convertedYear % 100 == 0:
+    print(str(inputYear) + " is not a leap year.")
+elif convertedYear % 4 == 0:
+    print(str(inputYear) + " is a leap year.")
 else:
-    print(inputYear + " isn't a leap year.")
+    print(str(inputYear) + " isn't a leap year.")

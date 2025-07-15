@@ -1,0 +1,25 @@
+Introduction: information regarding pinai
+Asking for inputs:
+1. Law
+2. Section
+3. Punishment
+***more information (type i)
+
+DEMO EXAMPLES:
+1. Schedule 1 + imprisonment + format 1
+Public Health Act BE 2535
+
+2. Schedule 1 + fine / other punishments + format 3
+Public Health Act, BE 2535 (1992)
+
+3. Schedule 2 + imprisonment + format 2
+Customs Act, B.E. 2560 (2017)
+
+4. Schedule 2 + fine / other punishments + format 4
+Customs Act B.E. 2560 (2017)
+
+5. Neither + format 5
+Hotel Act BE 2547 (2004)
+
+6. Narcotics Act format
+Narcotics Code
